@@ -1,2 +1,3 @@
 # find-for-me
 Built a Primary Movie Recommendation Engine using lightfm Library.Data is collected from 'fetch\_movielens'method from lightfm.A function is build to recommend movies for any number of users.Also Studied and implemented popular collaborative filtering.
+1.The code uses the lightfm recommender system library to train a hybrid content-based + collaborative algorithm that uses the WARP loss function on the movielens dataset. The movielens dataset contains movies and ratings from over 1700 users. Once trained, our script prints out recommended movies for whatever users from the dataset that we choose to terminal.
