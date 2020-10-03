@@ -27,3 +27,4 @@ iii.learn user preferences about suggest same.
 Types of CF
 i.User-Item Collaborative Filtering: “Users who are similar to you also liked …”
 ii.Item-Item Collaborative Filtering: “Users who liked this item also liked …”
+Kaggle Notebook here:https://www.kaggle.com/psoni1507/notebooks
